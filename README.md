@@ -29,11 +29,13 @@ This project investigates the impact of dimensionality reduction techniques on c
 
 ## References
 MNIST source:
+
 1. Yann LeCun, Corinna Cortes, and Christopher J.C. Burges.  
    *The MNIST Database of Handwritten Digits*  
    http://yann.lecun.com/exdb/mnist/
 
 Scikit-learn docs:
+
 2. Scikit-learn Documentation – PCA  
    https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
 
