@@ -25,7 +25,30 @@ This project investigates the impact of dimensionality reduction techniques on c
 - Google Colab
 
 ## Results
-<img width="491" height="216" alt="image" src="https://github.com/user-attachments/assets/937feac0-794f-41b6-bbdf-5ab8808054e2" />
+"Baseline SVM Confusion Matrix"
+<img width="797" height="701" alt="08" src="https://github.com/user-attachments/assets/2ff8ee49-559e-40c9-8f2a-e746a08135a3" />
+
+"PCA Explained Variance"
+<img width="846" height="547" alt="07" src="https://github.com/user-attachments/assets/c0e1576b-6c0b-4c89-8887-dc3f0b860b6b" />
+
+"3D PCA Visualization"
+<img width="640" height="658" alt="06" src="https://github.com/user-attachments/assets/86d3e29b-87e4-4456-b85d-cd3e13a3841c" />
+
+"3D LDA Visualization"
+<img width="637" height="658" alt="05" src="https://github.com/user-attachments/assets/e364584f-61fa-4b18-a3da-31abbf11c1b1" />
+
+"3D LLE Visualization"
+<img width="649" height="658" alt="04" src="https://github.com/user-attachments/assets/4a606033-2e06-48b2-8b9a-c85a586e2a37" />
+
+"comparison_df"
+<img width="478" height="187" alt="03" src="https://github.com/user-attachments/assets/42256ba0-cec3-4411-a1c0-f5169b216aee" />
+
+"Accuracy Comparison"
+<img width="868" height="568" alt="02" src="https://github.com/user-attachments/assets/5e3ae264-f263-4c27-8c53-a065f8f8c5e7" />
+
+"Training Time Comparison"
+<img width="877" height="573" alt="01" src="https://github.com/user-attachments/assets/8e5f4c0c-3e0e-42e2-a1ce-aaa21b3bfb5e" />
+
 
 ## References
 MNIST source:
